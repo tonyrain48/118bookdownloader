@@ -1,1 +1,3 @@
 # 118book_downloader
+直接python bookDownloader.py，编译完输入网址就可以把预览文档下载到对应的文件夹里面了。
+需要安bs4，requesets和lxml。
